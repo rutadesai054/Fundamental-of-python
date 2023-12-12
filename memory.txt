@@ -1,0 +1,1 @@
+We use the Heap for implement dynamic memory management. We can use the memory throughout the program. As we know, everything in Python is an object means dynamic memory allocation inspires the Python memory management. Python memory manager automatically vanishes when the object is no longer in use.
